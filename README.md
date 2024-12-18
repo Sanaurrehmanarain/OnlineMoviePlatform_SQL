@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/434f911f-9f07-4539-b769-73071101d3dc)
+
 # OnlineMoviePlatform_SQL
 You have this dataset, netflix_titles, that contains
 comprehensive information about movies and TV shows
